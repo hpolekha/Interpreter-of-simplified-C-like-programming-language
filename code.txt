@@ -1,0 +1,67 @@
+int main(){
+    int x = 1 > (2+3) || 1;
+    int counter;
+    while (counter < 10) {
+        counter = counter + 1;
+    };
+ 
+    int tmp;
+    myFun(-(7*3) + tmp);
+
+    MyEnum h = 2;
+
+    tmp = h;
+
+int iForExceptionCatching = 4;
+try {
+    exceptionFun();
+} catch (3*iForExceptionCatching+3) {
+    string str = "catch_15";
+    int i = errno;
+};
+
+string str ="contexts ok, see below";
+int ii = counter; 
+
+
+    if (1) {
+        if (1) {
+            return retTest();
+        };
+    };
+
+
+    string s = "HERERERERE";
+    string mmm = MyEnum.X.Name;
+    return 0;
+
+}         
+
+enum MyEnum {X=9,Y=2}
+
+int myFun(int k) {
+    int i = k;
+    return 2;
+ }
+
+int retTest() {
+    if (1) {
+        if (1) {
+            return 1;
+        };
+    };
+}
+
+
+
+int exceptionFun() {
+    try {
+        throw 15*1;
+        string s = "try";
+    } catch([1...3]) {
+        string s = "catch_1-3";
+        int a = errno;
+    } catch([4...10]) {
+        string s = "catch_4-10";
+    };
+}
